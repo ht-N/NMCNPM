@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T13:10:04.546Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="WHmLLLaVMwwFaVd0fFO9" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-29T13:11:25.826Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="m_sWF62o92TKAkfZITrP" version="24.2.1" type="github">
   <diagram name="Page-1" id="O-wyd_S9376FK2hlfZvm">
     <mxGraphModel dx="996" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CHEO6sFXtPchsjwYfXnH-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CHEO6sFXtPchsjwYfXnH-1" value="Người dùng" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="320" y="150" width="155" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CHEO6sFXtPchsjwYfXnH-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CHEO6sFXtPchsjwYfXnH-2" value="Thiết bị nhập" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="110" y="250" width="155" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="CHEO6sFXtPchsjwYfXnH-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CHEO6sFXtPchsjwYfXnH-3" value="Thiết bị xuất" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="540" y="250" width="155" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CHEO6sFXtPchsjwYfXnH-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -24,6 +24,9 @@
             <mxPoint x="307.5" y="410" as="sourcePoint" />
             <mxPoint x="487.5" y="410" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CHEO6sFXtPchsjwYfXnH-7" value="Tên" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="364.5" y="368" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
